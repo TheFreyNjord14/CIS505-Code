@@ -1,0 +1,14 @@
+.DS_Store
+
+.vscode
+.code-workspace
+
+*.class
+*.jar
+*.war
+*.log
+/target/
+hs_err_pid*
+.project
+.classpath
+.impl
