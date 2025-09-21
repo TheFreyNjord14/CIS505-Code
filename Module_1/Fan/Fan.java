@@ -132,6 +132,10 @@ public class Fan {
         }
     }
 
+    /**
+     * Returns a String representation of the object with different output depending on whether the fan is on or off.
+     * @return String
+     */
     @Override
     public String toString() {
         String s;

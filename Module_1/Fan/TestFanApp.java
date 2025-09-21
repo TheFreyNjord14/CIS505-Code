@@ -1,6 +1,12 @@
+/* 
+    Wilkins, S (2025). CIS 505 Intermediate Java Programming. Bellevue University.
+*/
 package Module_1.Fan;
 
 public class TestFanApp {
+    /**
+     * Tests the Fan class.
+     */
     public static void main(String[] args) {
         Fan fan1 = new Fan();
         Fan fan2 = new Fan(2, true, 0.01, "black");
