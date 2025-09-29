@@ -6,6 +6,9 @@ package Module_2.SportsTeamApp;
 import java.util.Scanner;
 
 public class TestSportsTeamApp {
+    /**
+     * Tests the Team class.
+     */
     public static void main(String[] args) 
     {
         Scanner input = new Scanner(System.in);
